@@ -1,6 +1,6 @@
 # ErogazioneNoSSN-CDA2
 
-[IG HL7 CDA2 Prescrizione Farmaceutica non a carico SSN](https://hl7itig.art-decor.pub/hl7itig-html-20251006T165024/tmp-2.16.840.1.113883.3.1937.777.63.10.770-2025-09-19T122810.html) 
+[IG HL7 CDA2 Erogazione Farmaceutica non a carico SSN](https://hl7itig.art-decor.pub/hl7itig-html-20251028T094320/tmp-2.16.840.1.113883.2.9.10.1.13.2.1-2025-10-07T120616.html) 
 
 # Ballot: Guida alla votazione
 La procedura di ballot segue lo standard Jira Balloting di HL7 international FHIR, che prevede l'utilizzo delle Issue GitHub (le Issue aperte prima dell'inizio del ballot sono segnalate come "Pre-Ballot Close"). Tale procedura è utile a segnalare commenti correlati alla votazione, che ufficialmente deve avvenire nell'area [Discussion di GitHub](https://github.com/hl7-it/PrescrizioneNoSSN-CDA2/discussions/1.html)
